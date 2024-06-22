@@ -10,3 +10,4 @@ migrateData().catch((err) => {
     console.error('Error migrating database', err);
     process.exit(0);
 });
+//test
