@@ -1,4 +1,4 @@
-# Drizzle ORM with PostgreSQL Tutorial
+# Drizzle ORM with PostgreSQL Tutorial with NodeJS
 
 A tutorial project demonstrating how to use Drizzle ORM with PostgreSQL for database migrations.
 
